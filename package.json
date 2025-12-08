@@ -1,0 +1,8 @@
+{
+  "name": "agile-culture-assessment",
+  "version": "1.0.0",
+  "description": "Agile Culture Assessment - Lead Magnet for Effilor",
+  "dependencies": {
+    "@sendgrid/mail": "^7.7.0"
+  }
+}
